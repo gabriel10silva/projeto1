@@ -4,14 +4,13 @@
     padding: 0;
 }
 
-
 .links {
     background-color: #000;
     display: flex;
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
-    padding: 20px 30px;
+    padding: 16px;
 }
 
 
@@ -20,6 +19,7 @@ a {
     text-decoration: none;
     transition: .4s ease;
 }
+
 
 nav a:hover {
     font-weight: 500;
